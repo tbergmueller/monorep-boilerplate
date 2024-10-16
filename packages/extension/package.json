@@ -1,6 +1,6 @@
 {
   "name": "@tbergmueller/extension",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./dist/index.js",
   "type": "module",
   "bin": {
@@ -11,6 +11,6 @@
     "build": "tsup"
   },
   "dependencies": {
-    "@tbergmueller/core": "^0.0.1"
+    "@tbergmueller/core": "^0.0.2"
   }
 }
