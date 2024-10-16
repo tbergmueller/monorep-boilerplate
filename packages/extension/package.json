@@ -10,6 +10,14 @@
   "scripts": {
     "build": "tsup"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbergmueller/monorep-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tbergmueller/monorep-boilerplate/issues"
+  },
+  "homepage": "https://github.com/tbergmueller/monorep-boilerplate#readme",
   "dependencies": {
     "@tbergmueller/core": "^0.0.2"
   }
