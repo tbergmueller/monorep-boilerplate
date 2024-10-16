@@ -1,6 +1,6 @@
 {
   "name": "@tbergmueller/execution",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "./dist/index.js",
   "type": "module",
   "bin": {
@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/tbergmueller/monorep-boilerplate#readme",
   "dependencies": {
-    "@tbergmueller/extension": "^0.0.2"
+    "@tbergmueller/extension": "^0.0.3"
   }
 }
