@@ -1,7 +1,7 @@
 
 {
-  "name": "tbergmueller-monorepo",
-  "private": true,
+  "name": "@tbergmueller/monorep-boilerplate",
+  "private": false,
   "workspaces": [
     "packages/*"
   ],
