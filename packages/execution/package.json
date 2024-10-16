@@ -1,0 +1,16 @@
+{
+  "name": "@tbergmueller/execution",
+  "version": "0.0.2",
+  "main": "./dist/index.js",
+  "type": "module",
+  "bin": {
+    "tommy": "./dist/index.js"
+  },
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup"
+  },
+  "dependencies": {
+    "@tbergmueller/extension": "^0.0.2"
+  }
+}

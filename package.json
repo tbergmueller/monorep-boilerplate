@@ -1,0 +1,13 @@
+
+{
+  "name": "@tbergmueller/monorep-boilerplate",
+  "private": false,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^6.0.0",
+    "typescript": "^5.0.0",
+    "tsup": "^5.10.0"
+  }
+}
