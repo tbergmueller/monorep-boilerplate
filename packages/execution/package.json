@@ -1,7 +1,6 @@
-
 {
   "name": "@tbergmueller/execution",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "./dist/index.js",
   "type": "module",
   "bin": {
@@ -12,6 +11,6 @@
     "build": "tsup src/index.ts --format=esm --dts"
   },
   "dependencies": {
-    "@tbergmueller/extension": "1.0.0"
+    "@tbergmueller/extension": "^0.0.1"
   }
 }
